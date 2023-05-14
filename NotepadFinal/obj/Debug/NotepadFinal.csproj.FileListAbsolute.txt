@@ -1,0 +1,11 @@
+C:\Users\parth\source\repos\NotepadFinal\NotepadFinal\obj\Debug\NotepadFinal.csproj.AssemblyReference.cache
+C:\Users\parth\source\repos\NotepadFinal\NotepadFinal\obj\Debug\NotepadFinal.csproj.SuggestedBindingRedirects.cache
+C:\Users\parth\source\repos\NotepadFinal\NotepadFinal\obj\Debug\NotepadFinal.Properties.Resources.resources
+C:\Users\parth\source\repos\NotepadFinal\NotepadFinal\obj\Debug\NotepadFinal.csproj.GenerateResource.cache
+C:\Users\parth\source\repos\NotepadFinal\NotepadFinal\obj\Debug\NotepadFinal.csproj.CoreCompileInputs.cache
+C:\Users\parth\source\repos\NotepadFinal\NotepadFinal\bin\Debug\NotepadFinal.exe.config
+C:\Users\parth\source\repos\NotepadFinal\NotepadFinal\bin\Debug\NotepadFinal.exe
+C:\Users\parth\source\repos\NotepadFinal\NotepadFinal\bin\Debug\NotepadFinal.pdb
+C:\Users\parth\source\repos\NotepadFinal\NotepadFinal\obj\Debug\NotepadFinal.exe
+C:\Users\parth\source\repos\NotepadFinal\NotepadFinal\obj\Debug\NotepadFinal.pdb
+C:\Users\parth\source\repos\NotepadFinal\NotepadFinal\obj\Debug\NotepadFinal.NoteTaker.resources
